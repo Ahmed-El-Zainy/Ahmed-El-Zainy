@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Artificail Intellegence with Computer Vision and Natural Language processing**
 
-- 📄 <p><a href="https://drive.google.com/file/d/1vwz_paZuDRlRu-nFdQGLUoduXKo9_iCG/view?usp=drive_link" target="_blank"><strong>📄 View My Experiences</strong></a></p>
+  <p><a href="https://drive.google.com/file/d/1vwz_paZuDRlRu-nFdQGLUoduXKo9_iCG/view?usp=drive_link" target="_blank"><strong>📄 View My Experiences</strong></a></p>
 
 - 📫 How to reach me **am7413780@gmail.com**
 
