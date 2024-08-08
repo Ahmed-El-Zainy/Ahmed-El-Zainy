@@ -14,7 +14,9 @@
 
 - 👯 I’m looking to collaborate on **LLM for Arabic Languge**
 
-- 💬 Ask me about **machine learning and deep learning**
+- 💬 Ask me about **Artificail Intellegence with Computer Vision and Natural Language processing**
+
+- 📄 Know about my experiences **https://drive.google.com/file/d/1vwz_paZuDRlRu-nFdQGLUoduXKo9_iCG/view?usp=drive_link**
 
 - 📫 How to reach me **am7413780@gmail.com**
 
