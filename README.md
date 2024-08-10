@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mustafa Mohamed</h1>
 <h3 align="center">A passionate Machine Learning and Deep Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medm0sta&label=Profile%20views&color=0e75b6&style=flat" alt="a7medm0sta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medm0sta&label=Profile%20views&color=0e75b6&style=gruvbox" alt="a7medm0sta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a7medm0sta" alt="a7medm0sta" /></a> </p>
 
