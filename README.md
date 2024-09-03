@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ahmed Mustafa Mohamed</h1>
-<h3 align="center">🌀 AI Engineer </h3>
+<h3 align="center">🌀 AI Enthusiastic </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medm0sta&label=Profile%20views&color=0e75b6&style=gruvbox" alt="a7medm0sta" /> </p>
 
