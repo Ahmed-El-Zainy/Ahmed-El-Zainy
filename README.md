@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ahmed Mustafa Mohamed</h1>
-<h3 align="center">A passionate Machine Learning and Deep Learning Engineer</h3>
+<h3 align="center">🌀 Machine Learning Prectionar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medm0sta&label=Profile%20views&color=0e75b6&style=gruvbox" alt="a7medm0sta" /> </p>
 
@@ -8,14 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/amrmost48842899" target="blank"><img src="https://img.shields.io/twitter/follow/amrmost48842899?logo=twitter&style=for-the-badge" alt="amrmost48842899" /></a> </p>
 
-- 🔭 I’m currently working on **geospatial intelligence**
+- 🔭 I’m currently working on **Building llm**
 
 - 🌱 I’m currently learning **MLOps, Generative AI**
-
-- 👯 I’m looking to collaborate on **LLM for Arabic Languge**
+- 👯 I’m looking to collaborate on **Reinforecement Learning**
 
 - 💬 Ask me about **Artificail Intellegence with Computer Vision and Natural Language processing**
-- <p><a href="https://drive.google.com/file/d/1vwz_paZuDRlRu-nFdQGLUoduXKo9_iCG/view?usp=drive_link" target="_blank"><strong>📄 View My Experiences</strong></a></p>
+- <p><a href="https://drive.google.com/file/d/19iivf2n1E8UevMxp2CX3UrZ-TXlWIETj/view?usp=share_link" target="_blank"><strong>📄 CV</strong></a></p>
 - 📫 How to reach me **am7413780@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
