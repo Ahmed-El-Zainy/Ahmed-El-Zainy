@@ -29,7 +29,7 @@
 
 
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
 
   <!-- Top languages at the top (smallest) -->
   <div style="margin-bottom: 20px;">
