@@ -30,5 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a7medm0sta&show_icons=true&locale=en" alt="a7medm0sta" /></p>
 
+![](https://github-profile-trophy.vercel.app/?username=a7medm0sta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a7medm0sta&" alt="a7medm0sta" /></p>
 
