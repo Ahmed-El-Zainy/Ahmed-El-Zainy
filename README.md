@@ -29,8 +29,21 @@
 
 
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7medm0sta&show_icons=true&theme=gotham" alt="GitHub stats" style="margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7medm0sta&theme=gotham" alt="GitHub streak" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medm0sta&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<div style="display: flex; flex-direction: column; align-items: center;">
+  
+  <!-- Top languages at the top (widest) -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medm0sta&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 300px;"/>
+  </div>
+  
+  <!-- GitHub stats (middle, smaller than top) -->
+  <div style="margin-top: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=a7medm0sta&show_icons=true&theme=gotham" alt="GitHub stats" style="width: 400px;"/>
+  </div>
+  
+  <!-- Contribution streak at the bottom (smallest) -->
+  <div style="margin-top: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7medm0sta&theme=gotham" alt="GitHub streak" style="width: 500px;"/>
+  </div>
+
 </div>
