@@ -30,5 +30,9 @@
 
 <div class="image-container">
   <img height="170"   src="https://github-readme-stats.vercel.app/api?username=a7medm0sta&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  
   <img height="170"  src="https://github-readme-streak-stats.herokuapp.com/?user=a7medm0sta&show_icons=true&theme=gotham" alt="a7medm0sta" />
 </div>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=a7medm0sta&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
