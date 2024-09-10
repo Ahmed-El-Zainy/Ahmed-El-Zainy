@@ -9,15 +9,26 @@
 
 ---
 
-- 🔭 I’m currently working on **Building llm**
+## 👋 About Me
 
-- 🌱 I’m currently learning **MLOps, Generative AI**
-- 👯 I’m looking to collaborate on **Reinforecement Learning**
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="AI coding" width="200" />
+</p>
 
-- 💬 Ask me about **Artificail Intellegence with Computer Vision and Natural Language processing**
-- <p><a href="https://drive.google.com/file/d/19iivf2n1E8UevMxp2CX3UrZ-TXlWIETj/view?usp=share_link" target="_blank"><strong>📄 CV</strong></a></p>
-- 📫 How to reach me **am7413780@gmail.com**
+- 🔭 I’m currently working on **Building LLMs**
+- 🌱 I’m currently learning **MLOps** and **Generative AI**
+- 👯 I’m looking to collaborate on **Reinforcement Learning**
+- 💬 Ask me about **Artificial Intelligence**, specifically in **Computer Vision** and **Natural Language Processing**
+  
+📄 [View my CV](#)  
+📫 Reach me via **am7413780@gmail.com**
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a7medm0sta&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7medm0sta&theme=radical" alt="GitHub streak" />
+</p>
 
 ----
 
