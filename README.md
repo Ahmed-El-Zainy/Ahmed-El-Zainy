@@ -16,7 +16,7 @@
 </p>
 
 - 🔭 I’m currently working on **Building LLMs**
-- 🌱 I’m currently learning **MLOps** and **Generative AI**
+- 🌱 I’m currently learning **MLOps** , **Generative AI** and **Audio**
 - 👯 I’m looking to collaborate on **Reinforcement Learning**
 - 💬 Ask me about **Artificial Intelligence**, specifically in **Computer Vision** and **Natural Language Processing**
 
