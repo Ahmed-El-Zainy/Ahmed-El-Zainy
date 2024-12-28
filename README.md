@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mustafa Mohamed</h1>
 <h3 align="center">🌀 AI Enthusiastic </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medm0sta&label=Profile%20views&color=0e75b6&style=gruvbox" alt="a7medm0sta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-El-Zainy&label=Profile%20views&color=0e75b6&style=gruvbox" alt="a7medm0sta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a7medm0sta&theme=onedark&row=1&column=9" alt="Ahmed-El-Zainy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed-El-Zainy&theme=onedark&row=1&column=9" alt="Ahmed-El-Zainy" /></a> </p>
 
 
 ---
@@ -33,17 +33,17 @@
 
   <!-- Top languages at the top (smallest) -->
   <div style="margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medm0sta&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 350px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-El-Zainy&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 350px;"/>
   </div>
   
   <!-- GitHub stats (middle, bigger) -->
   <div style="margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=a7medm0sta&show_icons=true&theme=gotham" alt="GitHub stats" style="width: 450px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-El-Zainy&show_icons=true&theme=gotham" alt="GitHub stats" style="width: 450px;"/>
   </div>
   
   <!-- Contribution streak at the bottom (largest) -->
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7medm0sta&theme=gotham" alt="GitHub streak" style="width: 550px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-El-Zainy&theme=gotham" alt="GitHub streak" style="width: 550px;"/>
   </div>
 
 </div>
