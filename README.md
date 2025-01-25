@@ -88,14 +88,6 @@
       alt="GitHub stats" 
     />
   </div>
-  
-  <!-- Contribution streak at the bottom (largest) -->
-  <div class="stat-item large">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed-El-Zainy&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats" 
-      alt="GitHub streak" 
-    />
-  </div>
 </div>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed-El-Zainy&theme=monokai&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
