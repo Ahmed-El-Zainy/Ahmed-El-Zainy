@@ -86,7 +86,7 @@
   
   <!-- Contribution streak at the bottom (largest) -->
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-El-Zainy&theme=gotham" alt="GitHub streak" style="width: 550px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-El-Zainy&show_icons=true&theme=gotham" alt="GitHub streak" style="width: 550px;"/>
   </div>
 
 </div>
