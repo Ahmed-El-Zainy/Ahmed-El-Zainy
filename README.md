@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mustafa Mohamed</h1>
 <h3 align="center">🌀 AI Enthusiastic </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-El-Zainy&label=Profile%20views&color=0e75b6&style=gruvbox" alt="a7medm0sta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-El-Zainy&label=Profile%20views&color=0e75b6&style=gruvbox" alt="Ahmed-El-Zainy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed-El-Zainy&theme=gotham&row=1&column=9" alt="Ahmed-El-Zainy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed-El-Zainy&theme=ondark&row=1&column=9" alt="Ahmed-El-Zainy" /></a> </p>
 
 
 ---
