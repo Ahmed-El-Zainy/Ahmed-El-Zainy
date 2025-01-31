@@ -17,17 +17,10 @@
 🚀 **Currently Building:**  
 🔭 `Large Language Models (LLMs)`
 
-🌱 **Always Learning:**  
-📌 `MLOps` | 🎨 `Generative AI` | 🎵 `Audio Processing`
-
 🤝 **Looking to Collaborate:**  
 👯 `Reinforcement Learning`
 
-💬 **Ask Me About:**  
-🧠 `Artificial Intelligence` → 🖼️ `Computer Vision` & 💬 `Natural Language Processing`
-
-🎯 **Fun Fact:**  
-I believe AI should be as creative as it is intelligent! ✨
+I think AI should be as creative(hallocinuate) as it is intelligent! ✨
 
 ---
 
@@ -58,8 +51,8 @@ I believe AI should be as creative as it is intelligent! ✨
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-2F6D92?style=for-the-badge)
-
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
