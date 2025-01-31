@@ -8,19 +8,29 @@
 
 
 ---
-
-## 👋 About Me
+## 👋 About Me  
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="AI coding" width="200" />
 </p>
 
-- 🔭 I’m currently working on **Building LLMs**
-- 🌱 I’m currently learning **MLOps** , **Generative AI** and **Audio**
-- 👯 I’m looking to collaborate on **Reinforcement Learning**
-- 💬 Ask me about **Artificial Intelligence**, specifically in **Computer Vision** and **Natural Language Processing**
+🚀 **Currently Building:**  
+🔭 `Large Language Models (LLMs)`
+
+🌱 **Always Learning:**  
+📌 `MLOps` | 🎨 `Generative AI` | 🎵 `Audio Processing`
+
+🤝 **Looking to Collaborate:**  
+👯 `Reinforcement Learning`
+
+💬 **Ask Me About:**  
+🧠 `Artificial Intelligence` → 🖼️ `Computer Vision` & 💬 `Natural Language Processing`
+
+🎯 **Fun Fact:**  
+I believe AI should be as creative as it is intelligent! ✨
 
 ---
+
 
 ## Technologies & Skills
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
