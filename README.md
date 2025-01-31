@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-El-Zainy&label=Profile%20views&color=0e75b6&style=gruvbox" alt="a7medm0sta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed-El-Zainy&theme=onedark&row=1&column=9" alt="Ahmed-El-Zainy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed-El-Zainy&theme=gotham&row=1&column=9" alt="Ahmed-El-Zainy" /></a> </p>
 
 
 ---
