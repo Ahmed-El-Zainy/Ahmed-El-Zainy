@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ahmed Mustafa Mohamed</h1>
-<h3 align="center">🌀 AI Enthusiastic </h3>
+<h3 align="center">🌀 AI Researcher </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-El-Zainy&label=Profile%20views&color=0e75b6&style=gruvbox" alt="Ahmed-El-Zainy" /> </p>
 
