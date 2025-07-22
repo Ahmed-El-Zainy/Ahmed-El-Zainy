@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Ahmed+Mustafa+Mohamed;AI+Researcher+%7C+Shadow+Coder;Building+the+Future+in+Darkness" alt="Typing SVG" />
 </div>
 
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:7209b7,100:560bad&height=120&section=header&text=&fontSize=16&fontColor=fff&animation=fadeIn" width="100%"/>
 </div>
