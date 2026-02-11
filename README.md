@@ -24,8 +24,7 @@ class Ahmed:
 - 🔭 Currently working on **Large Language Models** and **Reinforcement Learning**
 - 🌱 Exploring **Neural Architecture Search** and **Model Optimization**
 - 💡 Interested in **RLHF**, **Multi-Agent Systems**, and **Production ML**
-- 💬 Ask me about **PyTorch**, **Transformers**, **RL Algorithms**
-- 📫 Reach me: **ahmed.shadow@void.dev**
+- 📫 Reach me: **ahmedelzainy44@gmail.com**
 
 ## 🛠️ Tech Stack
 
@@ -63,7 +62,7 @@ class Ahmed:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Ahmed-El-Zainy)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ahmed-mustafa)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ahmed.shadow@void.dev)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ahmedelainy44@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/shadow_coder)
 
 ---
