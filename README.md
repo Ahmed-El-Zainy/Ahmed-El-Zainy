@@ -48,12 +48,26 @@ class Ahmed:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ## 📊 GitHub Stats
+---
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-El-Zainy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-El-Zainy&layout=compact&theme=radical"/>
 
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+
+  <!-- Top languages at the top (smallest) -->
+  <div style="margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-El-Zainy&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 350px;"/>
+  </div>
+  
+  <!-- GitHub stats (middle, bigger) -->
+  <div style="margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-El-Zainy&show_icons=true&theme=gotham" alt="GitHub stats" style="width: 450px;"/>
+  </div>
+  
+  <!-- Contribution streak at the bottom (largest) -->
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-El-Zainy&theme=gotham" alt="GitHub streak" style="width: 550px;"/>
+  </div>
 </div>
 
 
