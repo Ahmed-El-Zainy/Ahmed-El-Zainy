@@ -15,7 +15,6 @@
 class Ahmed:
     def __init__(self):
         self.role = "AI Researcher & ML Engineer"
-        self.location = "Egypt 🇪🇬"
         self.interests = ["Deep Learning", "LLMs", "Reinforcement Learning"]
         self.currently_learning = ["Advanced RLHF", "Multi-Agent Systems"]
         self.looking_to_collaborate = ["AI Research", "Open Source ML Projects"]
