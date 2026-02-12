@@ -6,7 +6,7 @@
 
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 Me
 
 ```python
 class Ahmed:
