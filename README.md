@@ -5,7 +5,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=AI+Researcher+%7C+ML+Engineer;Building+Intelligent+Systems;Deep+Learning+%7C+LLMs+%7C+RL)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-El-Zainy&color=blueviolet)](https://github.com/Ahmed-El-Zainy)
-[![GitHub followers](https://img.shields.io/github/followers/Ahmed-El-Zainy?style=social)](https://github.com/Ahmed-El-Zainy)
 
 </div>
 
